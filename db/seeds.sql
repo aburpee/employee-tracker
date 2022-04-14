@@ -5,7 +5,7 @@ VALUES
 ('FIELD SERVICES'),
 ('COMMUNITY OUTREACH');
 
-INSERT INTO role (title, salary, department_id)
+INSERT INTO roles (title, salary, department_id)
 VALUES 
 ('Business Analyst', 65000, 1),
 ('IT Analyst', 60000, 1),
